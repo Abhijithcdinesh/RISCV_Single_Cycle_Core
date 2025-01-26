@@ -1,7 +1,8 @@
 # RISCV_Single_Cycle_Core
 This project implements a single-cycle RISC-V processor in Verilog HDL. It executes one instruction per clock cycle and includes key components such as the Program Counter (PC), Instruction Memory, ALU, Register File, and Data Memory.
-Single-Cycle Core – Executes each instruction in one clock cycle, providing a simple and easy-to-understand design.
-Key Modules
+Single-Cycle Core – Executes each instruction in one clock cycle, providing a simple and easy-to-understand design.  
+
+#Key Modules
 
 Program Counter (PC) – Holds the current instruction address.  
 PC Adder – Computes the next instruction address.  
