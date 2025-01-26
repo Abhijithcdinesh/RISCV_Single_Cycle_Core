@@ -3,10 +3,10 @@ This project implements a single-cycle RISC-V processor in Verilog HDL. It execu
 Single-Cycle Core – Executes each instruction in one clock cycle, providing a simple and easy-to-understand design.
 Key Modules
 
-Program Counter (PC) – Holds the current instruction address.
-PC Adder – Computes the next instruction address.
-Instruction Memory – Stores RISC-V machine code instructions.
-ALU – Performs arithmetic and logic operations.
-Register File – Stores CPU registers for computation.
-Data Memory – Handles memory read/write operations.
-Supports Basic RISC-V Instructions (Load, Store, ALU Operations, and Branching).
+Program Counter (PC) – Holds the current instruction address.  
+PC Adder – Computes the next instruction address.  
+Instruction Memory – Stores RISC-V machine code instructions.  
+ALU – Performs arithmetic and logic operations.  
+Register File – Stores CPU registers for computation.  
+Data Memory – Handles memory read/write operations  
+Supports Basic RISC-V Instructions (Load, Store, ALU Operations, and Branching).  
